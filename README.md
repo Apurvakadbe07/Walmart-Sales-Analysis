@@ -106,8 +106,6 @@ walmart-sales-analysis/
 
 ## 📊 Power BI Dashboard
 
-## 📊 Power BI Dashboard
-
 ### Page 1
 ![Dashboard Page 1](images/dashboard page1.png)
 
