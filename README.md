@@ -28,6 +28,7 @@ The objective is to identify sales trends, profitability, customer behavior, and
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - PostgreSQL
 - Power BI
 - Git & GitHub
