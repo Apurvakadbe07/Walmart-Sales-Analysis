@@ -74,6 +74,16 @@ The dashboard provides interactive analysis of:
 - Evaluated delivery performance across product categories.
 
 ---
+## 📊 SQL Output Screenshots
+
+### Total sales and profit analysis
+![Total Sales](sql query/images/total sales and profit analysis.png)
+
+### year to year sales trend
+![year to year sales](sql query/images/year to year sales trend.png)
+
+### profitability analysis
+![profitability analysis](sql query/images/profitability analysis.png)
 
 ## 📂 Project Structure
 
