@@ -104,7 +104,18 @@ walmart-sales-analysis/
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
+## 📊 Power BI Dashboard
+
+## 📊 Power BI Dashboard
+
+### Page 1
+![Dashboard Page 1](images/dashboard page1.png)
+
+### Page 2
+![Dashboard Page 2](images/dashboard page2.png)
+
+### Page 3
+![Dashboard Page 3](images/dashboard page 3.png)
 
 ---
 
