@@ -37,7 +37,7 @@ This dashboard shows the analysis of sales performance, seasonal trends, and yea
 
 
 
-img1 = Image.open("images/dashboard page1.png")
+img1 = Image.open("images/Dashboard 1.png")
 st.image(img1, use_container_width=True)
 
 st.divider()
@@ -65,7 +65,7 @@ This dashboard shows state-wise profit and loss distribution along with category
 
 """)
 
-img2 = Image.open("images/dashboard page2.png")
+img2 = Image.open("images/Dashboard 2.png")
 st.image(img2, use_container_width=True)
 
 st.divider()
@@ -91,7 +91,7 @@ This dashboard shows order-level metrics, customer segmentation, delivery perfor
 
 """)
 
-img3 = Image.open("images/dashboard page 3.png")
+img3 = Image.open("images/Dashboard 3.png")
 st.image(img3, use_container_width=True)
 
 st.divider()
