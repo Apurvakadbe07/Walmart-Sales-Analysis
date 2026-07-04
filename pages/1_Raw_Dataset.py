@@ -15,8 +15,10 @@ df = pd.read_csv("dataset/walmart_data.csv")
 st.title("📂 Raw Walmart Sales Dataset")
 
 st.markdown("""
-The raw dataset represents the original Walmart sales records before any preprocessing.
-I first explored the data to understand its structure, identify missing values,
+The raw dataset used in this project is sourced from Kaggle (Walmart Sales Dataset).
+It represents the original Walmart sales records before any preprocessing.
+
+The data was explored to understand its structure, identify missing values,
 and evaluate its overall quality. This initial assessment guided the data cleaning
 and feature engineering process used throughout the project.
 """)
