@@ -1,0 +1,54 @@
+/* ---------- Google Font ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+html, body, [class*="css"]{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ---------- Main Background ---------- */
+.stApp{
+    background:#0E1117;
+    color:#FAFAFA;
+}
+
+/* ---------- Sidebar ---------- */
+[data-testid="stSidebar"]{
+    background:#161B22;
+    border-right:1px solid #2d333b;
+}
+
+/* ---------- Headers ---------- */
+h1,h2,h3,h4{
+    color:white;
+    font-weight:700;
+}
+
+/* ---------- Paragraph ---------- */
+p{
+    color:#c9d1d9;
+}
+
+/* ---------- Info Box ---------- */
+div[data-testid="stAlert"]{
+    background:#1C2128;
+    border:1px solid #30363d;
+    border-radius:15px;
+}
+
+/* ---------- Dataframe ---------- */
+[data-testid="stDataFrame"]{
+    border-radius:15px;
+    overflow:hidden;
+}
+
+/* ---------- Buttons ---------- */
+.stButton>button{
+    background:#E50914;
+    color:white;
+    border-radius:10px;
+    border:none;
+}
+
+.stButton>button:hover{
+    background:#ff2b2b;
+}
