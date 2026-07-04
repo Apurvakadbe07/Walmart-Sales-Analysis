@@ -1,6 +1,9 @@
-# 🛒 Walmart Sales Analysis
+# 🛒 Walmart Sales Analysis – End-to-End Data Analytics Project
 
-An end-to-end **Data Analytics** project that analyzes Walmart sales data using **Python, PostgreSQL, and Power BI** to uncover business insights and support data-driven decision-making.
+An end-to-end **Data Analytics project** that analyzes Walmart sales data using **Python, PostgreSQL, and Power BI** to uncover meaningful business insights and support data-driven decision-making.
+
+Dataset used: **Kaggle Walmart Sales Dataset**
+
 
 ---
 
